@@ -12,6 +12,7 @@
 	</head>
 	<body>
 		<h3>시작</h3>
+		<h3>시작</h3>
 	</body>
 	<script>
 	
